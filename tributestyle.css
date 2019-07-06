@@ -9,21 +9,22 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin:4% 1%;
     padding: 1%;
-    color: #414641; 
+    color: #414641;
+    border-radius: 30px;
 }
 
 img {
     text-align: center;
     max-width: 100%;
     height: auto;
-    padding: 3%
+    padding: 3%;
 }
 
 figcaption {
 	font-size: 1.2rem;
 	text-align: center;
-	line-height: 1.5em;
-	padding: 1em;
+	line-height: 1em;
+	padding-bottom: 1em ;
 }
 
 #img-div {
