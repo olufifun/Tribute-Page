@@ -42,3 +42,7 @@ h1 {
 a {
     color: rgb(159, 189, 189);
 }
+
+a:visited {
+        color: rgb(86, 102, 102);
+}
