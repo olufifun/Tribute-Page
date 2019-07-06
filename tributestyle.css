@@ -33,16 +33,21 @@ figcaption {
 	padding-bottom: 1em ;
 }
 
-
 h1 {
     font-size: 3rem;
     line-height: 0.5;
 }
 
+li {
+    margin: 1rem 0;
+}
+
+
 a {
-    color: rgb(159, 189, 189);
+    color: rgb(86, 102, 102);
+            
 }
 
 a:visited {
-        color: rgb(86, 102, 102);
+    color: rgb(159, 189, 189);
 }
