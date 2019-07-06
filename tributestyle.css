@@ -39,14 +39,16 @@ h1 {
 }
 
 ul {
+    max-width: 70%;
     display: inline-block;
     text-align: left;
     list-style-type: square;
+    line-height: 1.6;
 }
 
 li {
     margin: 1rem 0;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 }
 
 
