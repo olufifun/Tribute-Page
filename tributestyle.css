@@ -18,6 +18,13 @@ img {
     height: auto;
 }
 
+figcaption {
+	font-size: 0.8em;
+	text-align: center;
+	line-height: 1.5em;
+	/* padding: 1em 0; */
+}
+
 h1 {
     font-size: 3rem;
     line-height: 0.5;
