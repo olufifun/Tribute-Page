@@ -34,8 +34,11 @@ figcaption {
 }
 
 
-
 h1 {
     font-size: 3rem;
     line-height: 0.5;
+}
+
+a {
+    color: rgb(159, 189, 189);
 }
