@@ -38,6 +38,12 @@ h1 {
     line-height: 0.5;
 }
 
+ul {
+    display: inline-block;
+    text-align: left;
+    list-style-type: square;
+}
+
 li {
     margin: 1rem 0;
     font-size: 1.1rem;
