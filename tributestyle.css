@@ -19,10 +19,14 @@ img {
 }
 
 figcaption {
-	font-size: 0.8em;
+	font-size: 1.2rem;
 	text-align: center;
 	line-height: 1.5em;
-	/* padding: 1em 0; */
+	padding: 1em;
+}
+
+#img-div {
+    background-color: white;
 }
 
 h1 {
